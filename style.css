@@ -1,0 +1,39 @@
+.navbar {
+  background-color: #655c56;
+}
+
+.jumbotron img {
+  border: 7px solid #eaeaea;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #918985;
+  color: #eaeaea;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+.jumbotron h1 {
+  font-size: 70px;
+  font-weight: 400;
+}
+.jumbotron p {
+  font-size: 25px;
+  font-weight: 200;
+}
+
+#project {
+  background-color: #918985;
+}
+.card-img-top {
+  align-self: center;
+  height: 300px;
+  width: 300px;
+}
+
+section {
+  padding-top: 5rem;
+}
